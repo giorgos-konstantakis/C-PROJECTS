@@ -1,0 +1,6 @@
+Fun project
+
+In this project , we create a program in c , which can find all the mathematical operations' combinations which solve the following mathematical
+equation : 8 ? 7 ? 6 ? 5 ? 4 ? 3 ? 2 ? 1 = 36 . The operations which are to replace the ?s , are one of the following four : +,-,/,* .
+
+Giorgos Michail Konstantakis , Electrical and Computer Engineer , University of Patras , Greece

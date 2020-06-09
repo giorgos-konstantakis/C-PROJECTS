@@ -1,0 +1,8 @@
+SCORE 4 : GAME
+
+In this project we create a SCORE 4 game in c. In this game , we use the symbol ' + ' to represent player's move , and ' - ' to represent
+PC's move . The purpose of the game is to have 4 same symbols in a row , column or diagonally , so player or PC can win the game. The program
+has all the necessary functions and the main function whice ae needed to play SCORE 4 . Furthermore , a specific strategy has be designed with which
+the PC makes a move. Have fun !!
+
+Giorgos Michail Konstantakis , Electrical and Computer Engineer , Univeristy of Patras , Greece
